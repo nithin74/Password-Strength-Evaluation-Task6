@@ -1,7 +1,3 @@
-# Password-Strength-Evaluation-Task6
-Understand what makes a password strong and test it against password strength tools. 
-
-
 # Password Strength Evaluation (Task 6)
 
 ## 🎯 Objective
